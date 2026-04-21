@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Warless Noise-Cancelling Headphones",
+      "brand": "AudioTech",
+      "category": "Electronics",
+      "price": 99.99,
+      "rating": 4.8,
+      "stock": 15,
+      "image": "https://placehold.co/400x400?text=Headphones",
+      "description": "High-fidelity audio with active noise cancellation and 30-hour battery life."
+    },
+    {
+      "id": "2",
+      "name": "Ergonomic Mechanical Keyboard",
+      "brand": "KeyMaster",
+      "category": "Accessories",
+      "price": 125.5,
+      "rating": 4.5,
+      "stock": 8,
+      "image": "https://placehold.co/400x400?text=Keyboard",
+      "description": "RGB backlit mechanical keyboard with tactile brown switches."
+    },
+    {
+      "id": "3",
+      "name": "Smart Fitness Watch",
+      "brand": "FitLife",
+      "category": "Wearables",
+      "price": 89.0,
+      "rating": 4.2,
+      "stock": 0,
+      "image": "https://placehold.co/400x400?text=Smart+Watch",
+      "description": "Tracks heart rate, steps, and sleep patterns with GPS integration."
+    },
+    {
+      "id": "4",
+      "name": "Stainless Steel Water Bottle",
+      "brand": "EcoVessel",
+      "category": "Home & Kitchen",
+      "price": 24.99,
+      "rating": 4.7,
+      "stock": 50,
+      "image": "https://placehold.co/400x400?text=Bottle",
+      "description": "Vacuum-insulated bottle that keeps drinks cold for 24 hours."
+    },
+    {
+      "id": "5",
+      "name": "Professional DSLR Camera",
+      "brand": "PhotoPro",
+      "category": "Electronics",
+      "price": 899.0,
+      "rating": 4.9,
+      "stock": 3,
+      "image": "https://placehold.co/400x400?text=Camera",
+      "description": "24.2 MP sensor with 4K video recording capabilities."
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Improvement",
+      "published_year": 2018,
+      "rating": 4.8,
+      "pages": 320,
+      "price": 15.99,
+      "cover_image": "https://example.com/atomic-habits.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "published_year": 1988,
+      "rating": 4.7,
+      "pages": 208,
+      "price": 12.5,
+      "cover_image": "https://example.com/the-alchemist.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "published_year": 2016,
+      "rating": 4.6,
+      "pages": 304,
+      "price": 14.99,
+      "cover_image": "https://example.com/deep-work.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "published_year": 2008,
+      "rating": 4.7,
+      "pages": 464,
+      "price": 32.0,
+      "cover_image": "https://example.com/clean-code.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "genre": "Finance",
+      "published_year": 1997,
+      "rating": 4.5,
+      "pages": 336,
+      "price": 13.99,
+      "cover_image": "https://example.com/rich-dad-poor-dad.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "published_year": 1997,
+      "rating": 4.9,
+      "pages": 309,
+      "price": 18.0,
+      "cover_image": "https://example.com/harry-potter.jpg"
+    }
+  ]
+}

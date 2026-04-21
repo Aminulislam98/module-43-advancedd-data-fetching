@@ -11,6 +11,14 @@ const Header = () => {
       path: "/posts",
       text: "Posts",
     },
+    {
+      path: "/products",
+      text: "Products",
+    },
+    {
+      path: "/books",
+      text: "Books",
+    },
   ];
   return (
     <div className="navbar bg-base-100 shadow-sm">
